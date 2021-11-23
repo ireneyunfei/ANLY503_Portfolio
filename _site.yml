@@ -1,10 +1,17 @@
-name: "my-website"
+name: "503-project-yz678"
+output_dir: "docs"
 navbar:
-  title: "Yunfei-website"
+  title: "ANLY503-project"
   left:
     - text: "Home"
       href: index.html
-    - text: "About"
-      href: about.html
-
-output_dir: "docs"
+    - text: "Step1: Global Wine Industry"
+      href: plot1.html
+    - text: "Step2: Wine Types"
+      href: plot2.html
+    - text: "Step3: Detailed Features"
+      href: plot3.html
+output:
+  html_document:
+    theme: cosmo
+    highlight: textmate
