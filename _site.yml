@@ -5,15 +5,15 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text: "Step1: The Global Wine Industry"
+    - text: "Step1: Wine Industry"
       href: plot1.html
     - text: "Step2: Abv and Degree"
       href: plot2.html
     - text: "Step3: More Features"
       href: plot3.html
-    - text: "Step4: Price over Year"
+    - text: "Step4: Price"
       href: plot4.html
-    - text: "Step5: Wine Reviews"
+    - text: "Step5: Reviews"
       href: plot5.html
 output:
   html_document:
